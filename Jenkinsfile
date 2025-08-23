@@ -41,7 +41,7 @@ pipeline
                     docker pull vatsalsolanki3/vatsal:latest
 
                     echo "Running the container via NGINX"
-                    docker run -d --name vatsal vatsalsolanki3/vatsal:latest
+                    docker run -d --name vatsal --network pav vatsalsolanki3/vatsal:latest
 
                     echo "Restarting NGINX"
                     sudo systemctl restart nginx
