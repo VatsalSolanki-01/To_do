@@ -143,7 +143,7 @@ TEMPLATE = """
       <header class="appbar">
         <div class="brand">
           <span class="dot"></span>
-          <div class="title">Notes</div>
+          <div class="title">Vatsal's Notes</div>
         </div>
       </header>
 
