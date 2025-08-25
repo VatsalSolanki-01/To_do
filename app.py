@@ -24,7 +24,7 @@ TEMPLATE = """
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Notes</title>
+<title>Vatsal's Notes</title>
 <style>
   :root {
     --bg: #0b0b0c;
